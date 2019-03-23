@@ -1,0 +1,26 @@
+.ki_header-top{
+    padding: 10px;
+    background:linear-gradient(to right, rgba(206, 35, 35,0.7),rgba(109, 8, 8,0.8));
+    font-family: 'Germania One', cursive;
+}
+.ki_header-top h3{
+    font-size: 40px;
+}
+.carousel-item{
+    height: 550px;
+}
+
+#team{
+    width:100%;
+    text-align: center;
+    background:linear-gradient(to right, rgba(206, 35, 35,0.7),rgba(109, 8, 8,0.8));
+    font-family: 'Germania One', cursive;
+}
+
+#players{
+    width:100%;
+    text-align: center;
+    background:linear-gradient(to right, rgba(206, 35, 35,0.7),rgba(109, 8, 8,0.8));
+    font-family: 'Germania One', cursive;
+}
+
