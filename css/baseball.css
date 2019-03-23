@@ -1,0 +1,22 @@
+*{
+    font-family:'Noto Sans JP', sans-serif;
+}
+.top{
+    text-align: center;
+    padding: 20px;
+    background-color: #ADF1D2;
+}
+.baseball-video{
+    padding-top: 50px;
+}
+.Description{
+    padding: 75px;
+}
+.KI_footer{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.KI_footer{
+    background:linear-gradient(to right,#8FBFE0,#52B2CF);
+}
