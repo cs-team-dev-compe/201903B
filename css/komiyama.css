@@ -1,0 +1,14 @@
+.kt_header-top{
+    padding: 10px;
+    background-color: #52B2CF;
+    font-family: 'Caveat', cursive;
+}
+.kt_header-top h3{
+    font-size: 40px;
+}
+.carousel-item{
+    height: 550px;
+}
+.youtube{ 
+    padding: 30px 50px;
+}
