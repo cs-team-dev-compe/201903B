@@ -9,6 +9,54 @@
 .carousel-item{
     height: 550px;
 }
-.youtube{ 
-    padding: 30px 50px;
+
+.chat {
+  width: 100%;
+  margin-top: 100px;
+  overflow: hidden;
+  text-align: center;
+  background-image: url("../images/grass-3253361_1280.jpg");
+  height: 300px;
+}
+
+.chat .icon {
+  float: left;
+  margin-right: -100px;
+  width: 100px;
+  margin-left: 420px;
+  padding-top: 50px;
+}
+
+.chat .icon img{
+  width: 100%;
+  height: auto;
+  border: solid 3px black;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.chat .talk {
+  width: 100%;
+}
+
+.says {
+  display: inline-block;
+  position: relative; 
+  margin: 60px 0px 0px 105px;
+  padding: 20px 15px;
+  border-radius: 12px;
+  background-color:#d7ebfe;
+  margin-right: 650px;
+}
+.says:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px; 
+  left: -24px;
+  border: 12px solid transparent;
+  border-right: 13px solid #d7ebfe;
+}
+.says p {
+  margin: auto;
 }
