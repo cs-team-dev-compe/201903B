@@ -23,7 +23,7 @@
   float: left;
   margin-right: -100px;
   width: 100px;
-  margin-left: 420px;
+  margin-left: 600px;
   padding-top: 50px;
 }
 
@@ -46,7 +46,7 @@
   padding: 20px 15px;
   border-radius: 12px;
   background-color:#d7ebfe;
-  margin-right: 650px;
+  margin-right: 480px;
 }
 .says:after {
   content: "";
